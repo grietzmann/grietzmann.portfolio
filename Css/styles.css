@@ -48,7 +48,7 @@ html{
     display: inline-block;
 }
 .navbar .menu li a{
-    color: rgb(255, 15, 15);
+    color: rgb(10, 40, 95);
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -63,7 +63,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(/img/bgalaxy.gif) no-repeat;
+    background: url(/img/teahub.io-pixel-art-wallpaper-569703.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
