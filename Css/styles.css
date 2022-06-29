@@ -97,10 +97,10 @@ html{
     padding: 12px 36px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid #5F7161;
+    border: 2px solid #ffffff;
 }
 .home .home-content a:hover{
-    color: #5F7161;
+    color: #ffffff;
     background: none;
 }
 
@@ -238,7 +238,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "Que oferecemos";
+    content: "Que Ofereço:";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -272,7 +272,7 @@ section .title::after{
 }
 /*  sessão especialidades  */
 .skills .title::after{
-    content: "Que faço";
+    content: "Habilidades que possuo:";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -328,23 +328,23 @@ section .title::after{
     background: #5F7161;
 }
 .skills .skills-content .right .html::before{
-    width: 93%;
+    width: 80%;
 }
 .skills .skills-content .right .css::before{
-    width: 85%;
+    width: 68%;
 }
 .skills .skills-content .right .js::before{
-    width: 87%;
+    width: 60%;
 }
-.skills .skills-content .right .php::before{
-    width: 47%;
+.skills .skills-content .right .node::before{
+    width: 40%;
 }
 .skills .skills-content .right .mysql::before{
-    width: 42%;
+    width: 40%;
 }
 /*  sessão equipe  */
 .teams .title::after{
-    content: "Especializada";
+    content: "Quem sou";
 }
 .teams .carousel .card{
     background: #222;
@@ -404,7 +404,7 @@ section .title::after{
 }
 /*  sessão Contato  */
 .contact .title::after{
-    content: "Fale conosco";
+    content: "Fale comigo:";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
