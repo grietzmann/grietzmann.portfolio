@@ -32,7 +32,7 @@ html{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: #000000;
+    color: #ffffff;
     font-size: 35px;
     font-weight: 500;
 }
@@ -41,7 +41,7 @@ html{
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: #ffffff;
+    color: #000000;
 }
 .navbar .menu li{
     list-style: none;
@@ -63,7 +63,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(/Img/bg.jpeg) no-repeat;
+    background: url(/Img/wallpaperflare.com_wallpaper\ \(5\).jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
