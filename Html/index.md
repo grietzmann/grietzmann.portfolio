@@ -36,7 +36,7 @@
     <section class="home" id="home">
         <div class="max-width">
             <div class="home-content">
-                <div class="text-1">Ola, me chamo</div>
+                <div class="text-1">Olá, me chamo</div>
                 <div class="text-2">Maikel Grutzmann</div>
                 <div class="text-3">e sou <span class="typing"></span></div>
                 <a  href="https://www.linkedin.com/in/maikel-grutzmann/" target="_blank">Contratar-me</a>
@@ -56,7 +56,7 @@
                     <div class="text">Sou o Maike e eu sou <span class="typing-2"></span></div>
                     <p>Tenho 25 anos, sou estudante de análise e desenvolvimento de sistemas,
                          atualmente estou estudando tecnologias Front-end, 
-                         e iniciando no Back-end Node.js, estou a procura de um estágio, 
+                         e iniciando no Back-end com o Node.js, estou a procura de um estágio, 
                          ou vaga como desenvolvedor Front-End júnior, 
                          futuramente pretendo me tornar um desenvolvedor Full-stack.</p>  
                     <a  href="https://www.linkedin.com/in/maikel-grutzmann/" target="_blank"">Linkedin</a>   
@@ -91,7 +91,7 @@
                 <div class="box">
                     <ion-icon name="desktop-outline"></ion-icon>
                  <div class="text">Front-End</div>
-                <p>Desenvolvimento e estruturação de paginas , hospedagem e manutenção.</p>              
+                <p>Desenvolvimento e estruturação de paginas, hospedagem e manutenção.</p>              
                 </div>
             </div>
             </div>
@@ -106,7 +106,7 @@
                 <div class="column left">
                     <div class="text">Minhas habilidades e experiencias</div>
                     <p>Tenho habilidade em criacao de paginas web, utilizando Html, Css e Javascript,
-                         alem de conecimento sobre node,js e sobre o framework angular.</p>
+                         alem de conhecimento sobre node.js e sobre o framework angular.</p>
                     <a href="#">Mais informações</a>
                 </div>
                 <div class="column right">
@@ -174,7 +174,7 @@
             <div class="contact-content">
                <div class="column left">
                    <div class="text">Fale Comigo</div>
-                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas impedit laudantium saepe, voluptate libero fugiat in, dolores voluptatem distinctio animi et iusto, amet possimus tenetur modi cupiditate. Odio, numquam fuga perferendis vitae ullam eum, ipsam tempora unde nisi optio vero recusandae ipsa asperiores rem, labore impedit laudantium officiis maiores natus.</p>
+                   <p></p>
                
                <div class="icons">
                    <div class="row">
