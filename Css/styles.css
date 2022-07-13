@@ -23,7 +23,7 @@ html{
     transition: all 0.3s ease;
 }
 .navbar.sticky{
-     background: #5F7161;
+     background: #753188;
      padding: 15px 0;
 }
 .navbar .max-width{
@@ -37,7 +37,7 @@ html{
     font-weight: 500;
 }
 .navbar .logo a span{
-    color: #5F7161;
+    color: #753188;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -55,7 +55,7 @@ html{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: #5F7161;
+    color: #753188;
 }
 .navbar.sticky .menu li a:hover{
     color: #EFEAD8;
@@ -63,8 +63,10 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(/Img/wallpaperflare.com_wallpaper\ \(5\).jpg) no-repeat;
-    background-size: cover;
+    background: url(/Img/undraw_programming_re_kg9v\ \(1\).svg)no-repeat;
+    background-size:550px;
+    background-position: 100% 50%;    /* 100% à direita e 0% abaixo */
+    background-color: #000000;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -86,12 +88,12 @@ html{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color:#5F7161 ;
+    color:#753188 ;
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background: #5F7161;
+    background: #753188;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
@@ -120,7 +122,7 @@ html{
     text-align: center;
     line-height: 50px;
     color: #fff;
-    background: #5F7161;
+    background: #753188;
     border-radius: 6px;
     font-size: 30px;
     z-index: 9999;
@@ -165,7 +167,7 @@ section .title::after{
     left: 50%;
     font-size: 20px;
     background: #fff;
-    color: #5F7161;
+    color: #753188;
     padding: 5px;
     transform: translateX(-50%);
 }
@@ -199,25 +201,25 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: #5F7161;
+    color: #753188;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: #5F7161;
+    background: #753188;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid #5F7161;
+    border: 2px solid #753188;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: #5F7161;
+    color: #753188;
     background: none;
 }
 .about .about-content .left img{
@@ -250,7 +252,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: #5F7161;
+    background: #753188;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -260,7 +262,7 @@ section .title::after{
 }
 .services .serv-content .card ion-icon{
     font-size: 70px;
-    color: #5F7161;
+    color: #753188;
 }
 .services .serv-content .card:hover ion-icon{
     color: #fff;
@@ -287,18 +289,18 @@ section .title::after{
 }
 .skills .skills-content .left a{
     display: inline-block;
-    background: #5F7161;
+    background: #753188;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid #5F7161;
+    border: 2px solid #753188;
     transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover{
-    color: #5F7161;
+    color: #753188;
     background: none;
 }
 .skills .skills-content .right .bars{
@@ -325,7 +327,7 @@ section .title::after{
     height: 100%;
     top: 0;
     left: 0;
-    background: #5F7161;
+    background: #753188;
 }
 .skills .skills-content .right .html::before{
     width: 80%;
@@ -354,14 +356,14 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover{
-    background: #5F7161;
+    background: #753188;
 }
 .teams .carousel .card img{
     width: 150px;
     height: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid #5F7161;
+    border: 5px solid #753188;
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover img{
@@ -391,7 +393,7 @@ section .title::after{
     height: 14px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid #5F7161!important;
+    border: 2px solid #753188!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -400,7 +402,7 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: #5F7161!important;
+    background: #753188!important;
 }
 /*  sessão Contato  */
 .contact .title::after{
@@ -439,7 +441,7 @@ section .title::after{
 }
 .contact .contact-content .row ion-icon{
     font-size: 25px;
-    color: #5F7161;
+    color: #753188;
 }
 .contact .rigth form .fields{
     display: flex;
@@ -482,8 +484,8 @@ section .title::after{
 .contact .rigth form .button button{
     width: 100%;
     height: 100%;
-    border: 2px solid #5F7161;
-    background: #5F7161;
+    border: 2px solid #753188;
+    background: #753188
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -492,7 +494,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .contact .rigth form .button button:hover{
-    color: #5F7161;
+    color: #753188;
     background: none;
 }
 
@@ -504,7 +506,7 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: #5F7161;
+    color: #753188;
     text-decoration: none;
 }
 footer span a:hover{
