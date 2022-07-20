@@ -63,7 +63,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(./Img/bg.svg);
+    background: url(./Img/bg.svg)no-repeat;
     background-size:550px;
     background-position: 100% 50%;    /* 100% à direita e 50% abaixo */
     background-color: #000000;
