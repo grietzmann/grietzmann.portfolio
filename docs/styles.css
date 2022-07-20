@@ -63,9 +63,9 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(/docs/Img/undraw_programming_re_kg9v\ \(1\).svg)no-repeat;
+    background: url(./Img/bg.svg);
     background-size:550px;
-    background-position: 100% 50%;    /* 100% à direita e 0% abaixo */
+    background-position: 100% 50%;    /* 100% à direita e 50% abaixo */
     background-color: #000000;
     height: 100vh;
     color: #fff;
